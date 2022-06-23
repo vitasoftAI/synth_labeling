@@ -6,8 +6,6 @@
 
 # Process
 1) synth hwp(한글파일)데이터에서 사용되어있는 모든 단어의 위치를 자동으로 태깅
-|image|tagged image|
-|-----|------------|
 |![image](https://user-images.githubusercontent.com/63445349/175221551-dfc53c93-5fac-491f-a0a7-45b05d535ff3.png)
 |![image](https://user-images.githubusercontent.com/63445349/175221455-64327b90-41b2-4a48-9133-21327653ff0e.png)|
 
